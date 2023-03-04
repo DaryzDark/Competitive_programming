@@ -1,0 +1,3 @@
+/home/daryz/CLionProjects/Competitive_programming/atcoder contests/AtCoder Beginner Contest 292 4.03.2023/A/cmake-build-debug/CMakeFiles/A.dir
+/home/daryz/CLionProjects/Competitive_programming/atcoder contests/AtCoder Beginner Contest 292 4.03.2023/A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daryz/CLionProjects/Competitive_programming/atcoder contests/AtCoder Beginner Contest 292 4.03.2023/A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
